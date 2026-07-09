@@ -65,6 +65,12 @@ A CNN+LSTM audio classifier that detects vocal distress signals for elderly care
 * **Recall-First Engineering:** F1-based early stopping, weighted loss, and a deliberately low decision threshold — because a missed emergency costs more than a false alarm.
 * **Real Dataset Debugging:** Includes an audit script that surfaced genuine spurious correlations (siren vs. scream confusion) in the training data, not just theoretical edge cases.
 
+#### 🕸️ [InsightGraph](https://github.com/imgigin2003/InsightGraph)
+A full-stack algorithm and graph visualization platform for learning and research.
+* **Step-Trace Animation:** Watch 16 algorithms (BFS, Dijkstra, A*, Quick Sort, and more) execute step by step, with play/pause/scrub controls and live pseudocode highlighting.
+* **Interactive Graph Building:** Draw directed/weighted graphs on a React Flow canvas, import real datasets from CSV/JSON, and explore hypergraphs rendered as convex hulls.
+* **Research Analytics:** NetworkX-powered dashboard with density, centrality, and clustering metrics, graph similarity comparison, and one-click PDF report export.
+
 #### 🌐 [HG-db](https://github.com/imgigin2003/HG-db)
 A microservices-based web application designed for complex hypergraph data visualization and management.
 * **Microservices Architecture:** Built with a highly modular and distributed mindset.
@@ -78,12 +84,6 @@ A powerful, Notion-inspired productivity and knowledge management system.
 * **Smart Categorization:** Advanced custom filtering and strict category management for documentation.
 * **Workflow Management:** Built-in task and intern manager structured around color-coded priorities and custom kanban-style logic.
 
-#### 🐾 [PetClinic](https://github.com/imgigin2003/VeTCare)
-
-A full-stack, bilingual (Persian / RTL) veterinary clinic and pet store — all in one place.
-* **Appointment Booking:** Three-step scheduling on a Persian (Jalali) calendar, with a unique 6-character tracking code issued for every booking.
-* **Storefront & Checkout:** Searchable product catalog with category filters, a persistent local cart, and mock checkout with email confirmation.
-* **Admin Dashboard:** Full CRUD management of products (with image upload) plus revenue, order, and appointment analytics at a glance.
 
 ---
 
