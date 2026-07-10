@@ -59,7 +59,7 @@ A cute and cozy web-app for planting flowers and starting pomo sessions.
 * **Secure Auth:** — JWT-based authentication with bcrypt password hashing
 * **Streak Unlocks:** — New plant varieties unlock every 7 days of consistent study
 
-#### 🎙️ [AffectCare](https://github.com/imgigin2003/AffectCare)
+#### 🎙️ [AffectCare](https://github.com/imgigin2003/AffectCare) & [AffectCare-Extended (UI)(https://github.com/imgigin2003/AffectCare-Extended)
 A CNN+LSTM audio classifier that detects vocal distress signals for elderly care safety monitoring, built around a recall-first design philosophy.
 * **Distress Detection Pipeline:** Converts raw audio into MFCC spectrograms and classifies them through a hybrid CNN (spatial patterns) + LSTM (temporal patterns) architecture.
 * **Recall-First Engineering:** F1-based early stopping, weighted loss, and a deliberately low decision threshold — because a missed emergency costs more than a false alarm.
