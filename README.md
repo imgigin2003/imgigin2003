@@ -65,6 +65,12 @@ A CNN+LSTM audio classifier that detects vocal distress signals for elderly care
 * **Recall-First Engineering:** F1-based early stopping, weighted loss, and a deliberately low decision threshold — because a missed emergency costs more than a false alarm.
 * **Real Dataset Debugging:** Includes an audit script that surfaced genuine spurious correlations (siren vs. scream confusion) in the training data, not just theoretical edge cases.
 
+#### 💳 [FraudFlux](https://github.com/imgigin2003/FraudFlux)
+A fraud detection pipeline built on 284,807 real credit card transactions, comparing Logistic Regression, Decision Trees, and Random Forest under a severe 0.172% class imbalance.
+* **Model Comparison Pipeline:** Trains and evaluates three classifiers with class_weight="balanced", then tunes decision thresholds per-model to navigate the precision-recall tradeoff rather than trusting default cutoffs.
+* **Data Leakage Discipline:** Deduplicates before splitting, stratifies the train/test split to preserve class ratio, and fits scalers on training data only — avoiding the leakage traps this kind of imbalanced dataset invites.
+* **A Documented Change of Mind:** Started with a strict "recall over precision" stance, then abandoned it after seeing the real false-alarm cost (629 alerts to catch 5 extra frauds) — and shipped the model that balances both instead of the one with the flashiest single metric.
+
 #### 🕸️ [InsightGraph](https://github.com/imgigin2003/InsightGraph)
 A full-stack algorithm and graph visualization platform for learning and research.
 * **Step-Trace Animation:** Watch 16 algorithms (BFS, Dijkstra, A*, Quick Sort, and more) execute step by step, with play/pause/scrub controls and live pseudocode highlighting.
