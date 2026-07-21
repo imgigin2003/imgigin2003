@@ -50,6 +50,12 @@ A passionate Software Engineering graduate (Associate & Bachelor's) with a stron
 
 ### 📂 Featured Projects
 
+#### 🎙️ [AffectCare](https://github.com/imgigin2003/AffectCare) & [AffectCare-Extended(UI)](https://github.com/imgigin2003/AffectCare-Extended)
+A CNN+LSTM audio classifier that detects vocal distress signals for elderly care safety monitoring, built around a recall-first design philosophy.
+* **Distress Detection Pipeline:** Converts raw audio into MFCC spectrograms and classifies them through a hybrid CNN (spatial patterns) + LSTM (temporal patterns) architecture.
+* **Recall-First Engineering:** F1-based early stopping, weighted loss, and a deliberately low decision threshold — because a missed emergency costs more than a false alarm.
+* **Real Dataset Debugging:** Includes an audit script that surfaced genuine spurious correlations (siren vs. scream confusion) in the training data, not just theoretical edge cases.
+
 #### 🌱 [StudySprout](https://github.com/imgigin2003/StudySprout)
 A cute and cozy web-app for planting flowers and starting pomo sessions.
 * **Flexible Focus:** — Study blocks from 5 to 60 minutes
@@ -58,12 +64,6 @@ A cute and cozy web-app for planting flowers and starting pomo sessions.
 * **Session Tracking:** — Automatic break reminders after every 4 Pomodoros
 * **Secure Auth:** — JWT-based authentication with bcrypt password hashing
 * **Streak Unlocks:** — New plant varieties unlock every 7 days of consistent study
-
-#### 🎙️ [AffectCare](https://github.com/imgigin2003/AffectCare) & [AffectCare-Extended(UI)](https://github.com/imgigin2003/AffectCare-Extended)
-A CNN+LSTM audio classifier that detects vocal distress signals for elderly care safety monitoring, built around a recall-first design philosophy.
-* **Distress Detection Pipeline:** Converts raw audio into MFCC spectrograms and classifies them through a hybrid CNN (spatial patterns) + LSTM (temporal patterns) architecture.
-* **Recall-First Engineering:** F1-based early stopping, weighted loss, and a deliberately low decision threshold — because a missed emergency costs more than a false alarm.
-* **Real Dataset Debugging:** Includes an audit script that surfaced genuine spurious correlations (siren vs. scream confusion) in the training data, not just theoretical edge cases.
 
 #### 💳 [FraudFlux](https://github.com/imgigin2003/FraudFlux)
 A fraud detection pipeline built on 284,807 real credit card transactions, comparing Logistic Regression, Decision Trees, and Random Forest under a severe 0.172% class imbalance.
@@ -77,18 +77,18 @@ A full-stack algorithm and graph visualization platform for learning and researc
 * **Interactive Graph Building:** Draw directed/weighted graphs on a React Flow canvas, import real datasets from CSV/JSON, and explore hypergraphs rendered as convex hulls.
 * **Research Analytics:** NetworkX-powered dashboard with density, centrality, and clustering metrics, graph similarity comparison, and one-click PDF report export.
 
+#### 📝 [KnowledgeBase](https://github.com/imgigin2003/KnowledgeBase)
+A powerful, Notion-inspired productivity and knowledge management system.
+* **Rich Text Rendering:** Add articles using raw HTML tags or Markdown, with immediate inline real-time output visualization.
+* **Smart Categorization:** Advanced custom filtering and strict category management for documentation.
+* **Workflow Management:** Built-in task and intern manager structured around color-coded priorities and custom kanban-style logic.
+
 #### 🌐 [HG-db](https://github.com/imgigin2003/HG-db)
 A microservices-based web application designed for complex hypergraph data visualization and management.
 * **Microservices Architecture:** Built with a highly modular and distributed mindset.
 * **Streamlit & D3.js:** Features a robust [Streamlit](https://streamlit.io) interface seamlessly integrated with a powerful [D3.js](https://d3js.org) service for interactive graphics.
 * **Rust Bridge:** Utilizes Rust as an ultra-fast performance bridge between backend data and front-end visualization engines.
 * **Capabilities:** Full rendering capabilities for Hypergraphs, Dual Hypergraphs, and Layer Hypergraphs.
-
-#### 📝 [KnowledgeBase](https://github.com/imgigin2003/KnowledgeBase)
-A powerful, Notion-inspired productivity and knowledge management system.
-* **Rich Text Rendering:** Add articles using raw HTML tags or Markdown, with immediate inline real-time output visualization.
-* **Smart Categorization:** Advanced custom filtering and strict category management for documentation.
-* **Workflow Management:** Built-in task and intern manager structured around color-coded priorities and custom kanban-style logic.
 
 
 ---
