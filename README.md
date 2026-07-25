@@ -58,7 +58,7 @@ A CNN+LSTM audio classifier that detects vocal distress signals for elderly care
 * **Recall-First Engineering:** F1-based early stopping, weighted loss, and a deliberately low decision threshold — because a missed emergency costs more than a false alarm.
 * **Real Dataset Debugging:** Includes an audit script that surfaced genuine spurious correlations (siren vs. scream confusion) in the training data, not just theoretical edge cases.
 
-#### 🌱 [StudySprout](https://github.com/imgigin2003/StudySprout)
+#### 🌱 [StudySprout](https://studysprout.pages.dev/) · [source](https://github.com/imgigin2003/StudySprout)
 A cute and cozy web-app for planting flowers and starting pomo sessions.
 * **Flexible Focus:** — Study blocks from 5 to 60 minutes
 * **Task-Linked Growth:** — Attach your timer to a specific plant in your garden
