@@ -67,6 +67,15 @@ A cute and cozy web-app for planting flowers and starting pomo sessions.
 * **Secure Auth:** — JWT-based authentication with bcrypt password hashing
 * **Streak Unlocks:** — New plant varieties unlock every 7 days of consistent study
 
+#### 🏔️ [Lumen Retreat](https://lumen-retreat.vercel.app/login) · [source](https://github.com/imgigin2003/LumenRetreat)
+A midnight-luxury dashboard for managing a boutique cabin resort, built in 3D.
+* **Procedural 3D:** — Low-poly cabins built from pure code, zero model files
+* **Orbit & Inspect:** — Spin any cabin in real time, materials shift by tier
+* **Living Dashboard:** — Animated KPIs, revenue charts and today's arrivals
+* **One-Tap Check-In:** — Move guests through their stay from a single click
+* **Midnight Glass:** — Deep ink, warm amber accents and a light-mode toggle
+* **Zero Backend:** — Runs fully in the browser on a seeded in-memory store
+
 #### 💳 [FraudFlux](https://github.com/imgigin2003/FraudFlux)
 A fraud detection pipeline built on 284,807 real credit card transactions, comparing Logistic Regression, Decision Trees, and Random Forest under a severe 0.172% class imbalance.
 * **Model Comparison Pipeline:** Trains and evaluates three classifiers with class_weight="balanced", then tunes decision thresholds per-model to navigate the precision-recall tradeoff rather than trusting default cutoffs.
