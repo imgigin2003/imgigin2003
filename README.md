@@ -94,7 +94,7 @@ A fraud detection pipeline built on 284,807 real credit card transactions, compa
 * **Data Leakage Discipline:** Deduplicates before splitting, stratifies the train/test split to preserve class ratio, and fits scalers on training data only — avoiding the leakage traps this kind of imbalanced dataset invites.
 * **A Documented Change of Mind:** Started with a strict "recall over precision" stance, then abandoned it after seeing the real false-alarm cost (629 alerts to catch 5 extra frauds) — and shipped the model that balances both instead of the one with the flashiest single metric.
 
-#### 🕸️ [InsightGraph](https://github.com/imgigin2003/InsightGraph)
+#### 🕸️ [InsightGraph](https://insight-graph-alpha.vercel.app/) · [source](https://github.com/imgigin2003/InsightGraph)
 A full-stack algorithm and graph visualization platform for learning and research.
 * **Step-Trace Animation:** Watch 16 algorithms (BFS, Dijkstra, A*, Quick Sort, and more) execute step by step, with play/pause/scrub controls and live pseudocode highlighting.
 * **Interactive Graph Building:** Draw directed/weighted graphs on a React Flow canvas, import real datasets from CSV/JSON, and explore hypergraphs rendered as convex hulls.
