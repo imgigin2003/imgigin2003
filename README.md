@@ -33,12 +33,24 @@ A passionate Software Engineering graduate (Associate & Bachelor's) with a stron
       <br />JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="Typescript" height="40"/>
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/>
       <br />React
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
       <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original.svg" alt="Express.js" height="40"/>
+      <br />Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/>
+      <br />AWS (Amazon Web Services)
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="40"/>
