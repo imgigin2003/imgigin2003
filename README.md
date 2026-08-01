@@ -64,7 +64,7 @@ A passionate Software Engineering graduate (Associate & Bachelor's) with a stron
 
 ### 📂 Featured Projects
 
-#### 🎙️ [AffectCare](https://github.com/imgigin2003/AffectCare) & [AffectCare-Extended(UI)](https://github.com/imgigin2003/AffectCare-Extended)
+#### 🎙️ [AffectCare](https://affectcare-extended.pages.dev/) · [source](https://github.com/imgigin2003/AffectCare-Extended)
 A CNN+LSTM audio classifier that detects vocal distress signals for elderly care safety monitoring, built around a recall-first design philosophy.
 * **Distress Detection Pipeline:** Converts raw audio into MFCC spectrograms and classifies them through a hybrid CNN (spatial patterns) + LSTM (temporal patterns) architecture.
 * **Recall-First Engineering:** F1-based early stopping, weighted loss, and a deliberately low decision threshold — because a missed emergency costs more than a false alarm.
