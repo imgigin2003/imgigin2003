@@ -1,9 +1,9 @@
 <img align='center' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
 
 
-# 🤍 Hi, I'm Negin Parseh |
+# 🤍 Hi, I'm Negin
 
-### 🚀 AI/ML & Full-Stack Developer
+### 🚀 AI/ML | Full-Stack Developer
 
 A passionate Software Engineering graduate (Associate & Bachelor's) with a strong foundation in computer science, architecture, and system design. I love bridging the gap between data-driven systems and interactive user experiences. Currently focusing on Deep Tech, AI/ML Engineering, and Full-Stack development using JavaScript and Python ecosystems.
 
