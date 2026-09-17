@@ -7,7 +7,7 @@
 
 A passionate Software Engineer with a strong foundation in computer science, architecture, and system design. While I started out in full-stack development, I've naturally gravitated toward AI engineering and backend systems. I love working on the infrastructure that makes smart models actually usable. Currently focusing on Machine Learning, LLMs, and building reliable backend architecture to run AI in production.
 
-### 💜 Checkout My **[Portfolio]**(https://portfolio-imgigin2003s-projects.vercel.app/)
+### 💜 Checkout My **[Portfolio](https://portfolio-imgigin2003s-projects.vercel.app/)**
 
 ---
 
