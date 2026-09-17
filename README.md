@@ -1,4 +1,4 @@
-<img align='center' src='https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif' width='310' height='310'>
+<img align='center' src='https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif'>
 
 
 # 🤍 Hi, I'm Negin
@@ -27,7 +27,7 @@ A passionate Software Engineer with a strong foundation in computer science, arc
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
       <br />Python
-      [ML Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,scikitlearn,pytorch,tensorflow,huggingface,mlflow,wandb,opencv&perline=9)
+      ![ML Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,scikitlearn,pytorch,tensorflow,huggingface,mlflow,wandb,opencv&perline=9)
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
