@@ -27,7 +27,6 @@ A passionate Software Engineer with a strong foundation in computer science, arc
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
       <br />Python
-      ![ML Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,scikitlearn,pytorch,tensorflow,huggingface,mlflow,wandb,opencv&perline=9)
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
