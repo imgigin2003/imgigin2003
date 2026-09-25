@@ -76,12 +76,6 @@ A fraud detection pipeline built on 284,807 real credit card transactions, compa
 * **Data Leakage Discipline:** Deduplicates before splitting, stratifies the train/test split to preserve class ratio, and fits scalers on training data only — avoiding the leakage traps this kind of imbalanced dataset invites.
 * **A Documented Change of Mind:** Started with a strict "recall over precision" stance, then abandoned it after seeing the real false-alarm cost (629 alerts to catch 5 extra frauds) — and shipped the model that balances both instead of the one with the flashiest single metric.
 
-#### 🕸️ [InsightGraph](https://insight-graph-alpha.vercel.app/) · [source](https://github.com/imgigin2003/InsightGraph)
-A full-stack algorithm and graph visualization platform for learning and research.
-* **Backend Integration:** Powered by a FastAPI backend to handle complex algorithmic steps securely and efficiently.
-* **Step-Trace Animation:** Watch 16 algorithms (BFS, Dijkstra, A*, Quick Sort, and more) execute step by step, with play/pause/scrub controls and live pseudocode highlighting.
-* **Interactive Graph Building:** Draw directed/weighted graphs on a React Flow canvas, import real datasets from CSV/JSON, and explore hypergraphs rendered as convex hulls.
-* **Research Analytics:** NetworkX-powered dashboard with density, centrality, and clustering metrics, graph similarity comparison, and one-click PDF report export.
 
 #### 🌱 [StudySprout](https://studysprout.pages.dev/) · [source](https://github.com/imgigin2003/StudySprout)
 A cute and cozy web-app for planting flowers and starting pomo sessions.
@@ -89,6 +83,15 @@ A cute and cozy web-app for planting flowers and starting pomo sessions.
 * **Flexible Focus:** Study blocks from 5 to 60 minutes.
 * **Task-Linked Growth:** Attach your timer to a specific plant in your garden.
 * **Partial XP & Streaks:** Stop early and still earn XP; new plant varieties unlock every 7 days of consistent study.
+
+
+#### 🕸️ [InsightGraph](https://insight-graph-alpha.vercel.app/) · [source](https://github.com/imgigin2003/InsightGraph)
+A full-stack algorithm and graph visualization platform for learning and research.
+* **Backend Integration:** Powered by a FastAPI backend to handle complex algorithmic steps securely and efficiently.
+* **Step-Trace Animation:** Watch 16 algorithms (BFS, Dijkstra, A*, Quick Sort, and more) execute step by step, with play/pause/scrub controls and live pseudocode highlighting.
+* **Interactive Graph Building:** Draw directed/weighted graphs on a React Flow canvas, import real datasets from CSV/JSON, and explore hypergraphs rendered as convex hulls.
+* **Research Analytics:** NetworkX-powered dashboard with density, centrality, and clustering metrics, graph similarity comparison, and one-click PDF report export.
+
 
 #### 🏔️ [Lumen Retreat](https://lumen-retreat.vercel.app/login) · [source](https://github.com/imgigin2003/LumenRetreat)
 A midnight-luxury dashboard for managing a boutique cabin resort, built in 3D.
